@@ -2,6 +2,7 @@
 
 A Linux container for data science 
 
+**In VS Code, make sure you have the Dev Containers extension installed.**
 
 ## Git Basics
 
